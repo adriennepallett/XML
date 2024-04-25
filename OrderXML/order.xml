@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+  <Order>
+    <OrderDate>1/1/2021</OrderDate>
+    <ShippingPrice>12.99</ShippingPrice>
+    <OrderDetails>
+      <OrderDetail>
+        <OrderDetailID>2</OrderDetailID>
+        <OrderID>1</OrderID>
+        <ProductID>12</ProductID>
+        <Options>
+          <Size>
+          </Size>
+          <Color>
+            <OptionValue>Black</OptionValue>
+          </Color>
+        </Options>
+        <Quantity>5</Quantity>
+        <Price>20.00</Price>
+      </OrderDetail>
+    </OrderDetails>
+    <Customer>
+      <CustomerID>1</CustomerID>
+      <FirstName>Jane</FirstName>
+      <LastName>Doe</LastName>
+      <ShippingAddressID>1</ShippingAddressID>
+      <BillingAddressID>2</BillingAddressID>
+      <Email>jane@doe.com</Email>
+      <ShippingAddress>
+        <Street2>Apt 111</Street2>
+      </ShippingAddress>
+      <BillingAddress>
+        <AddressID>2</AddressID>
+        <Street1>PO Box 123456</Street1>
+        <City>Davie</City>
+        <State>FL</State>
+        <Zip>33329</Zip>
+      </BillingAddress>
+    </Customer>
+  </Order>
+</Orders>
