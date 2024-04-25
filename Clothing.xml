@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Adrienne Pallett Assignment 1 Question 1-->
+
+<Cart>
+    <items>
+        <clothingItem>
+            <type>Shirt</type>
+            <name>Be Kind Graphic Tee</name>
+            <SKU>12345</SKU>
+            <description>Graphic Tee - Be Kind to All Kinds</description>
+            <size>M</size>
+            <color>Black</color>
+            <price>$7.99</price>
+        </clothingItem>
+        <foodItem>
+            <type>Produce</type>
+            <name>Bananas</name>
+            <SKU>78790</SKU>
+            <description>Organic Bananas per pound</description>
+            <weight>1.59</weight>
+            <ethnic>No</ethnic>
+            <dietary>Organic</dietary>
+            <price>$2.99</price>
+        </foodItem>
+    </items>
+</Cart>
