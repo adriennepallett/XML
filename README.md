@@ -1,4 +1,5 @@
 XML
 
-Clothing.xml ------------------- ✅
-CustomerOrder.xml -------------- ✅
+Clothing.xml ------------------- ✅ Stable
+CustomerOrder.xml -------------- ✅ Stable
+XMLBio.xml --------------------- ✅ Stable
