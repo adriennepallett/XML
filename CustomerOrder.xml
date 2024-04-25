@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Adrienne Pallett Assignment 1 Question 2-->
+
+<Order>
+    <Customer>
+        <customerID>33317-8300495</customerID>
+        <customerName>Adrienne Pallett</customerName>
+        <customerPhone>(954)830-0495</customerPhone>
+        <customerEmail>ag3358@mynsu.nova.edu</customerEmail>
+    </Customer>
+
+    <Billing>
+        <billingStreet>123 Main St</billingStreet>
+        <billingCity>Plantation</billingCity>
+        <billingState>FL</billingState>
+        <billingZip>33317</billingZip>
+    </Billing>
+
+    <Shipping>
+        <billingSame>Y</billingSame>
+        <shippingStreet>123 Main St</shippingStreet>
+        <shippingCity>Plantation</shippingCity>
+        <shippingState>FL</shippingState>
+        <shippingZip>33317</shippingZip>
+    </Shipping>
+
+    <OrderProducts>
+        <item type="clothing">
+            <SKU>12345</SKU>
+            <description>Graphic Tee - Be Kind to All Kinds</description>
+            <size>M</size>
+            <color>Black</color>
+            <price>$7.99</price>
+            <quantity>1</quantity>
+        </item>
+
+        <item type="food">
+            <SKU>78790</SKU>
+            <description>Organic Bananas per pound</description>
+            <price>$2.99</price>
+            <quantity>1.59</quantity>
+        </item>
+    </OrderProducts>
+</Order>
