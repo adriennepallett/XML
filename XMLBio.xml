@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biography>
+	<personalInfo>
+		<name nsu_id="N02074665">Adrienne Pallett</name>
+		<age>38</age>
+		<hometown>Ft Lauderdale</hometown>
+		<!-- Currently living in Plantation -->
+	</personalInfo>
+	<edInfo>
+		<class>Senior</class>
+		<career>UX Design</career>
+		<grad_year>2024</grad_year>
+	</edInfo>
+	<faveItem>
+		<fav_food>Italian</fav_food>
+		<fav_song>Blank Space - Taylor Swift</fav_song>
+		<fav_movie>Marvel</fav_movie>
+		<fav_sport>Hockey</fav_sport>
+	</faveItem>
+</biography>
